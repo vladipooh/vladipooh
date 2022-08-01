@@ -9,3 +9,5 @@ In the past, :technologist: I have worked with leading international companies s
 Check out [my website](https://www.phviro.com/) and also [my blog](https://phviro.blogspot.com/).
 
 I have a [YouTube channel](https://www.youtube.com/channel/UC58QgysOyqYk4Uhc_rwXgpw/featured) too!. I collect beautiful scenes :earth_asia: where I have been with melodious instrumental music :notes::saxophone:. Please enjoy!
+
+![image](https://github.com/vladipooh/vladipooh/blob/main/POOHsea.png)
