@@ -12,4 +12,4 @@ I have a [YouTube channel](https://www.youtube.com/channel/UC58QgysOyqYk4Uhc_rwX
 
 ![image](https://github.com/vladipooh/vladipooh/blob/main/POOHsea.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladipooh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladipooh&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
