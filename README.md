@@ -1,8 +1,8 @@
 ### Hi there 👋:shipit:
 
-:student: I'm a Ph.D. student and early-stage researcher in GIRTEL, :computer: Department of Information and Communications Technology at Technical University of Cartagena, Spain. 
+:student: I graduated with a Ph.D. in ICT from GIRTEL, :computer: Department of Information and Communications Technology at Technical University of Cartagena, Spain. 
 
-:syringe: Currently, I research :microscope: the application of machine learning for blood glucose control in type I diabetic patients. :drop_of_blood: 
+:syringe: My research :microscope: is about the application of machine learning for blood glucose control in type I diabetic patients. :drop_of_blood: 
 
 In the past, :technologist: I have worked with leading international companies such as Microsoft and Refinitiv, bringing my data science skills :atom: to apply in a variety of fields such as fintech infrastructure :euro: :coin:, marketing :spider_web:, recruiting :dart:, career guidance :teacher:, and health care :stethoscope:.
 
