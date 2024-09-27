@@ -6,7 +6,7 @@
 
 In the past, :technologist: I have worked with leading international companies such as Microsoft and Refinitiv, bringing my data science skills :atom: to apply in a variety of fields such as fintech infrastructure :euro: :coin:, marketing :spider_web:, recruiting :dart:, career guidance :teacher:, and health care :stethoscope:.
 
-Check out [my website]([https://www.phviro.com/](https://vladipooh.github.io/) and also [my blog](https://phviro.blogspot.com/).
+Check out [my website](https://vladipooh.github.io/) and also [my blog](https://phviro.blogspot.com/).
 
 I have a [YouTube channel](https://www.youtube.com/channel/UC58QgysOyqYk4Uhc_rwXgpw/featured) too!. I collect beautiful scenes :earth_asia: where I have been with melodious instrumental music :notes::saxophone:. Please enjoy!
 
