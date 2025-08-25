@@ -1,4 +1,4 @@
-### Hi there 👋:shipit:
+### Hi there 👋
 
 :student: I graduated with a Ph.D. in ICT from GIRTEL, :computer: Department of Information and Communications Technology at Technical University of Cartagena, Spain. 
 
